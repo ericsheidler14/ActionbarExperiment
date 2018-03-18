@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+    <string name="app_name">Actionbar Experiment</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ui_tabname_breakfast">breakfast</string>
+    <string name="ui_tabname_lunch">lunch</string>
+    <string name="ui_tabname_snack">snack</string>
+    <string name="ui_tabname_dinner">dinner</string>
+    <string name="ui_menu_search">ui_menu_search</string>
+    <string name="ui_menu_send">ui_menu_send</string>
+    <string name="ui_menu_share">ui_menu_share</string>
+    <string name="ui_menu_about">ui_menu_about</string>
+    <string name="ui_menu_feedback">ui_menu_feedback</string>
+    <string name="ui_menu_quit">ui_menu_quit</string>
+</resources>
